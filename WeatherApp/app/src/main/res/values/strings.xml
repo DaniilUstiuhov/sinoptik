@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    
+    <!-- Main Screen -->
+    <string name="refresh">Обновить</string>
+    <string name="forecast_5_days">Прогноз на 5 дней</string>
+    <string name="change_city">Изменить город</string>
+    <string name="weather_icon">Иконка погоды</string>
+    <string name="error">Ошибка</string>
+    
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="city">Город</string>
+    <string name="enter_city">Введите город</string>
+    <string name="save">Сохранить</string>
+    <string name="temperature_units">Единицы измерения температуры</string>
+    <string name="theme">Тема оформления</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Системная</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="font_small">Маленький</string>
+    <string name="font_medium">Средний</string>
+    <string name="font_large">Большой</string>
+    <string name="api_key">API Ключ OpenWeather</string>
+    <string name="enter_api_key">Введите API ключ</string>
+    
+    <!-- Errors -->
+    <string name="error_no_internet">Нет подключения к интернету</string>
+    <string name="error_city_not_found">Город не найден</string>
+    <string name="error_api_key">Неверный API ключ</string>
+</resources>
